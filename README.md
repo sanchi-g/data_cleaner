@@ -20,13 +20,7 @@ A CSV file named `dirty_data.csv` with at least the following columns:
 Name,Units,Date,...
 ```
 
-Example:
-```csv
-Name,Units,Date
-Riya,12,2024-01-01
-,10,2024-01-02
-Aman,,2024-01-03
-```
+---
 
 How to Run
 
